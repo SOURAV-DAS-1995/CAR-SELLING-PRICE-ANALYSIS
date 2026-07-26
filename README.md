@@ -1,4 +1,4 @@
-# Car-Selling-Price-Analysis
+# Car Selling Price Analysis
 
 Used Car Sale Price Prediction
 
